@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome, Bienvenue, Bienvenido, Bem-vindo, 欢迎, 歡迎, ようこそ, Receber, 환영합니다, მოგესალმებით, مرحباً, வணக்கம், स्वागत है
+### Hi there 👋 Welcome, Bienvenue, Bienvenido, Bem-vindo, 欢迎, Receber, 歡迎, 환영합니다
 
 <!--
 **FirstSolar/FirstSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
