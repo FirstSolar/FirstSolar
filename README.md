@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I've got lots of experience with JavaScript and SQL.
-
-If you'd like to get in touch with me, you can reach me at cloudyskyweb@gmail.com.
